@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PruebatecnicaApplication<pruebatecnica>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.pruebatecnica.pruebatecnica.PruebatecnicaApplication",
+            "projectName": "pruebatecnica",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
